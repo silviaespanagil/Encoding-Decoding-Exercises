@@ -7,5 +7,7 @@
         <page name='CodingKeys'/>
         <page name='JSON from local file'/>
         <page name='JSON from API'/>
+        <page name='Creating custom coding keys'/>
+        <page name='JSON from API refactored'/>
     </pages>
 </playground>
