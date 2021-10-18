@@ -4,5 +4,6 @@
         <page name='Simple encoding'/>
         <page name='Decoding Arrays'/>
         <page name='Decoding complex objects'/>
+        <page name='CodingKeys'/>
     </pages>
 </playground>
