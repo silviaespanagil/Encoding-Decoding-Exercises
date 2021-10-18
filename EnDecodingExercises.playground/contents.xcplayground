@@ -6,5 +6,6 @@
         <page name='Decoding complex objects'/>
         <page name='CodingKeys'/>
         <page name='JSON from local file'/>
+        <page name='JSON from API'/>
     </pages>
 </playground>
